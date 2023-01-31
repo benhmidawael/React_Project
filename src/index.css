@@ -6,8 +6,20 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+
 }
+
+.form{
+  display: flex;
+  justify-content: center;
+margin-top: 40px;
+margin-bottom: 20px;
+}
+form{
+  width: 50%;
+}
+
